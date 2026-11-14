@@ -60,5 +60,5 @@ and were run at the NASA Ames Research Center.
 **DeepVoid.** The grids and masks were made for
 
 - Kumagai, S., Vogeley, M. S., Aragon-Calvo, M. A., Douglass, K. A.,
-  BenZvi, S., & Neyrinck, M. 2025, DeepVoid: A Deep Learning Void Detector,
-  [arXiv:2504.21134](https://arxiv.org/abs/2504.21134)
+  BenZvi, S., & Neyrinck, M. 2026, DeepVoid: A Deep Learning Void Detector,
+  ApJ, 998, 85, [doi:10.3847/1538-4357/ae2c80](https://doi.org/10.3847/1538-4357/ae2c80)
