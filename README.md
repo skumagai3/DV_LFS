@@ -1,8 +1,11 @@
 # DV_LFS
 
-Large data files for [DeepVoid](https://github.com/skumagai3/deepvoid), kept
-apart from the code so that cloning the code does not download several
-gigabytes. The files are stored with Git LFS.
+**Archived.** These grids are now published, compressed and losslessly
+converted, on Zenodo: https://doi.org/10.5281/zenodo.24233069. Use that
+record instead; it also has the subhalo and halo grids at mean separations
+of 3 and 7 h⁻¹ Mpc. The code is at https://github.com/skumagai3/deepvoid.
+
+The files below are kept for reference. They were stored with Git LFS.
 
 ## Files
 
